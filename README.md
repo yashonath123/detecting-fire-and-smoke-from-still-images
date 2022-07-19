@@ -1,0 +1,1 @@
+# detecting-fire-and-smoke-from-still-images
